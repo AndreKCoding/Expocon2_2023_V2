@@ -1,0 +1,49 @@
+#header {
+    width: 100%;
+    background-color: rgb(72, 56, 255);
+    padding: 1%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+}
+
+#text {
+    font-size: 25;
+    color: white;
+    font-weight: bold;
+}
+
+button {
+    height: 60px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgb(80, 80, 255);
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    border-width: 5px;
+    border-color: black;
+}
+
+body {
+    background-color: rgb(191, 191, 254);
+}
+
+img {
+    background-color: white;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: black;
+    padding: 10px;
+    height: 200px;
+    width: 350px;
+}
+
+#feed {
+    height: 80px;
+    background-color: green;
+}
+
+h1 {
+    font-weight: bold;
+}
